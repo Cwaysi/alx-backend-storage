@@ -1,0 +1,1 @@
+No SQL like mongodb, very powerful Document database
